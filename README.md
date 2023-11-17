@@ -22,7 +22,8 @@ Acesse o link abaixo e diverta-se!
 
 ![image](https://github.com/LealDias/Jogo-da-Mem-ria/assets/70763447/9f8f7876-2bb8-4c8e-abd5-1d7bd1ed7df5)
 
-![image](https://github.com/LealDias/Jogo-da-Mem-ria/assets/70763447/9d167fda-0958-4bc1-98ae-cf4f9e037127)
+![image](https://github.com/LealDias/Jogo-da-Mem-ria/assets/70763447/9193ab32-8ae8-4dfe-b21f-3b8ff5cc1291)
+
 
 
 
