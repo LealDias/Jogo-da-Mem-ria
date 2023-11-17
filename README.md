@@ -17,6 +17,7 @@ Divertido Jogo da Memória com Emojis!
 
 Acesse o link abaixo e diverta-se!
 
+https://lealdias.github.io/Jogo-da-Mem-ria/
 
 ## Screen Shots
 
